@@ -1,1 +1,1 @@
-# kalbanrh
+Most of the work uploaded here is a part of my PhD work, particularly in the field of environmental and atmospheric sciences. Specifically, my work will be focused on volatile organic compounds and surface ozone. Hence, all the uploaded codes here are developed in order to study their variability and related analysis.
